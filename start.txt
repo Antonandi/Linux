@@ -1,0 +1,65 @@
+start
+Mon Oct  3 22:07:47 UTC 2022
+svnusers:x:102:svn
+user2:*:1000:
+user2:*:1000:
+user2:*:1000:
+   0 cat/etc/group | wc|
+   1 cat /etc /group | wc|
+   2 cat /etc /group|wc|
+   3 cat/etc/group|wc|
+   4 ls
+   5 mkdir /opt/task
+   6 touch /opt/task/start.txt
+   7 start>>/opt/task/start.txt 
+   8 "start">>/opt/task/start.txt 
+   9 ls -l/opt/task/
+  10 ls /opt/task/
+  11 date
+  12 echo"start">>/opt/task/start.txt 
+  13 echo "start">>/opt/task/start.txt 
+  14 cat /opt/task/start.txt 
+  15 date>> /opt/task/start.txt 
+  16 cat /opt/task/start.txt 
+  17 history
+  18 cat / |wc -l
+  19 cat /|wc -l
+  20 ls
+  21 cd
+  22 /
+  23 ls
+  24 tree
+  25 ls /
+  26 cat / |tail
+  27 cat / | tail
+  28 cat /| tail
+  29 cat /bin | tail
+  30 cat/bin | tail
+  31 cat /bin | wc -l
+  32 Cat /bin | wc -l
+  33 cat/bin | wc -l
+  34 cat bin | wc -l
+  35 cat bin/ | wc -l
+  36 cat /bin/ | wc -l
+  37 cat /bin | wc -l
+  38 cat ~bin | wc -l
+  39 ls /etc/
+  40 cat /etc/group
+  41 cat /etc/group | tail-4
+  42 cat /etc/group | tail -4
+  43 cat / | grep -w /
+  44 cat /temp | grep -w /
+  45 cat /tmp | grep -w /
+  46 cat /tmp/ | grep -w /
+  47 cat // | grep -w /
+  48 cat | grep -w /
+  49 cat/ | grep -w /
+  50 cat / | grep -w /
+  51 history
+  52 tree /
+  53 tree / | tail -4 | >> /opt/task/start.txt 
+  54 cat /opt/task/start.txt 
+  55 cat /etc/group | tail -4>> /opt/task/start.txt 
+  56 cat /opt/task/start.txt 
+  57 history>> /opt/task/start.txt 
+я вдимо плохо понял урок, а записи нету к сожалению
